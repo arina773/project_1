@@ -1,3 +1,3 @@
 this is first line
 adding second line
-adding conflinciting line
+line from branch1
